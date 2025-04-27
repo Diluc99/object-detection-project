@@ -45,3 +45,7 @@ Thumbs.db
 # Build and dist directories
 dist/
 build/
+.env
+node_modules/
+backend/node_modules/
+backend/.env
